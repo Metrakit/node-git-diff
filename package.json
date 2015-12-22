@@ -1,0 +1,32 @@
+{
+  "name": "node-git-diff",
+  "description": "Node Git Diff",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metrakit/node-git-diff.git"
+  },
+  "author": {
+    "name": "Jordane",
+    "email": "contact@jordane.net",
+    "url": "http://jordane.net"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin"
+  ],
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "license": "MIT",
+  "gitHead": "48e757a90687a8c5bca9d2945285ac0689aa7023",
+  "bugs": {
+    "url": "https://github.com/metrakit/node-git-diff/issues"
+  },
+  "homepage": "https://github.com/metrakit/node-git-diff#readme"
+}
